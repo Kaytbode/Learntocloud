@@ -1,2 +1,6 @@
 # Learntocloud
-Learning Cloud Development
+
+## Learning Goals
+- To understand the core ideas behind cloud engineering.
+
+
